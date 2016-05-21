@@ -1,3 +1,3 @@
 # CodeHub
-a code repository 
+My code repository, 
 Thank you for reading my code !
